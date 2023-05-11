@@ -11,6 +11,21 @@ body {
   background-position: left;
 }
 
+/* Acerca de mi */
+
+#Acerca-de-mi i {
+  font-size: 40px;
+  color: #676868;
+}
+
+#Acerca-de-mi .logo {
+  height: 50px;  
+}
+
+#Acerca-de-mi img {
+  border-radius: 10px;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
