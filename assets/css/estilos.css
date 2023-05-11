@@ -26,13 +26,21 @@ body {
   border-radius: 10px;
 }
 
-/* Mis trabajos */
+/* Portafolio */
 
-#Mis-trabajos .image-top {
+/* #Mis-trabajos .image-top {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+} */
+
+.card {
+  height: 100%;  
+}
+
+.image-top img { /* agrega linea de ancho imagen card */
+  width: 98%;  
 }
 
 /* Contacto */
